@@ -44,7 +44,7 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 
 
 
-## Conitg
+## Contig
 
 
 
