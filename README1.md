@@ -1,4 +1,4 @@
-# Assembly analysis tools and papers
+# Genome assembly analysis tools and papers
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Jwindler/Assembly_tools) ![GitHub pull requests](https://img.shields.io/github/issues-pr/Jwindler/Assembly_tools) ![GitHub License](https://img.shields.io/github/license/Jwindler/Assembly_tools)
 
@@ -128,6 +128,8 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 
 | Name           | Introduction                                                 | Paper                                                        | Url                                                          | Note              | Public Date |
 | -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ----------------- | ----------- |
+|compleasm |compleasm: a faster and more accurate reimplementation of BUSCO|[*Bioinformatics*]( https://doi.org/10.1186/s13059-020-02134-9) | [Github](https://github.com/huangnengCSU/compleasm)) |  | 2023.10      |
+
 | QUAST          | a quality assessment tool for evaluating and comparing genome assemblies. | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btt086) | [Github](https://github.com/ablab/quast)                     |                   | 2013.2      |
 | BioNanoAnalyst | a visualisation tool to assess genome assembly quality using BioNano data. | [*BMC Bioinformatics*](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1735-4) | [Github](https://github.com/AppliedBioinformatics/BioNanoAnalyst) | Use BioNano  data | 2017.6      |
 | CRAQ           | Identification of errors in draft genome assemblies with single-base pair resolution for quality assessment and improvement. | [*Nature Communications*](https://www.nature.com/articles/s41467-023-42336-w) | [Github](https://github.com/JiaoLaboratory/CRAQ)             | Single base scale | 2023.10     |
@@ -138,7 +140,7 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 | Flagger        | Evaluating genome assemblies.                                | [*Nature*](https://www.nature.com/articles/s41586-023-05896-x) | [Github](https://github.com/mobinasri/flagger)               |                   | 2023.5      |
 | Asset          | assembly evaluation tool.                                    |                                                              | [Github](https://github.com/dfguan/asset)                    |                   |             |
 | Inspector      | A tool for evaluating long-read de novo assembly results.    | [*Genome Biology*](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02527-4) | [Github](https://github.com/Maggi-Chen/Inspector)            |                   | 2021.11     |
-
+|LAI |Assessing genome assembly quality using the LTR Assembly Index (LAI)|[*Nucleic Acids Res*]( https://doi.org/10.1093/nar/gky730) | [Github](https://github.com/oushujun/LTR_retriever)) |  | 2018      |
 
 
 
