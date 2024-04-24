@@ -35,15 +35,12 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 | ----------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------------------------------- | --------------- | ----------- |
 | GenomeScope | Fast genome analysis from unassembled short reads.           | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btx153) | [Github](https://github.com/schatzlab/genomescope)  |                 | 2017.3      |
 | GCE |XXX|XXX|[Github](https://github.com/fanagislab/GCE)|	XXXX|	2012	|
-
 | Jellyfish   | Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA. | [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btr011) | [Github](https://github.com/gmarcais/Jellyfish)     |                 | 2011.1      |
 | nQuire      | A statistical framework for ploidy estimation using NGS short-read data. | [*BMC Bioinformatics*](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2128-z) | [Github](https://github.com/clwgg/nQuire)           |                 | 2018.4      |
 | KMC         | Counting and manipulating k-mer statistics.                  | [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/33/17/2759/3796399?login=false) | [Github](https://github.com/refresh-bio/KMC)        |                 | 2017.5      |
 | KAT         | a K-mer analysis toolkit to quality control NGS datasets and genome assemblies | [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/33/4/574/2664339) | [Github](https://github.com/TGAC/KAT)               |                 | 2016.11     |
-
 | smudgeplot  | Such an approach also allows us to analyze obscure genomes with duplications, various ploidy levels, etc. | [*Nature Communications*](https://doi.org/10.1038/s41467-020-14998-3) | [Github](https://github.com/KamilSJaron/smudgeplot) | GenomeScope 2.0 | 2020.3      |
 | PloidyFrost | ploidyfrost: Reference-free estimation of ploidy level from whole genome sequencing data based on de Bruijn graphs | [*MER*](https://doi.org/10.1111/1755-0998.13720) | [Github](https://github.com/CMB-BNU/PloidyFrost)) |XXXX| 2022.10      |
-
 |Merqury|Merqury: reference-free quality, completeness, and phasing assessment for genome assemblies.|[*Genome Biol*]( https://doi.org/10.1186/s13059-020-02134-9) | [Github](https://github.com/marbl/merqury)) |  | 2020.09      |
 
 
