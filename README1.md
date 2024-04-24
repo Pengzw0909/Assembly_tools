@@ -39,7 +39,7 @@ Genome Assembly tools are added by pipeline. **Welcome contribute and get in tou
 | nQuire      | A statistical framework for ploidy estimation using NGS short-read data. | [*BMC Bioinformatics*](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2128-z) | [Github](https://github.com/clwgg/nQuire)           |                 | 2018.4      |
 | KMC         | Counting and manipulating k-mer statistics.                  | [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/33/17/2759/3796399?login=false) | [Github](https://github.com/refresh-bio/KMC)        |                 | 2017.5      |
 | KAT         | a K-mer analysis toolkit to quality control NGS datasets and genome assemblies | [*Bioinformatics*](https://academic.oup.com/bioinformatics/article/33/4/574/2664339) | [Github](https://github.com/TGAC/KAT)               |                 | 2016.11     |
-
+| PloidyFrost | ploidyfrost: Reference-free estimation of ploidy level from whole genome sequencing data based on de Bruijn graphs | [*MER*](https://doi.org/10.1111/1755-0998.13720) | [Github](https://github.com/CMB-BNU/PloidyFrost)) |XXXX| 2022.10      |
 
 
 
